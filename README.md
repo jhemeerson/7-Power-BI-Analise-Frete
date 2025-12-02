@@ -163,6 +163,12 @@ anos na tela.
 
 <br>
 
+### Visualização:
+
+ <img src="https://github.com/user-attachments/assets/89589f43-433f-45de-b540-1b641455d756"/>
+ </div>
+
+
     
 
     
